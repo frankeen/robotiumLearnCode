@@ -1,5 +1,9 @@
 ![Robotium](logo.png)
 
+
+
+#当前文档是Robotium5.1.1的中文源码翻译项目
+将源码中的大部分类和方法都用中文来注释，方便大家阅读
 # User scenario testing for Android
 Robotium is an Android test automation framework that has full support for native and hybrid applications. Robotium makes it easy to write powerful and robust automatic black-box UI tests for Android applications. With the support of Robotium, test case developers can write function, system and user acceptance test scenarios, spanning multiple Android activities.
 
